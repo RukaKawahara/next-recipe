@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  padding: 20px;
+}
+
+.header_link {
+  color: white;
+}
+
+.header-link:hover {
+  color: gray;
+}
+
